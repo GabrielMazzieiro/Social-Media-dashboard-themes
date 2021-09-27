@@ -13,3 +13,7 @@ If you liked and wanna do for yourself, check it out at [Frontend Mentor](https:
 I'm open to critics and suggestions!
 
 Hope you like how it turned out.
+
+## Final Project
+
+Check the final result [live here](https://gabrielmazzieiro.github.io/Social-Media-dashboard-themes/)
